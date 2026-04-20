@@ -47,7 +47,8 @@ Sistema web informativo orientado a la comunidad parroquial.
 ## 📫 Contacto
 
 📱 Teléfono: 7228-4740  
-📧 Correo: oostom3@gmail.com  
+📧 Correo: oostom3@gmail.com
+📧 Correo: oscar.menjivar.tobar@clases.edu.sv 
 
 ---
 
